@@ -18,7 +18,5 @@
     </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b40b4ada-e9e8-4932-bdcc-0dc2658339a0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
