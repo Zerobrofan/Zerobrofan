@@ -30,4 +30,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a Software Engineer from Egypt.
+- :telescope: I’m currently learning Computer Science.
+
+- :seedling: I am a Junior at <a href="https://www.facebook.com/FCSENMUofficial">Faculty of Computers Science & Engineering at New Mansoura University</a>.
+
+- :zap: In my free time, I study cloud architecture and Python 🐍.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-amir-501a70232/)
