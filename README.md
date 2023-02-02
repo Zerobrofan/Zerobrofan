@@ -7,7 +7,7 @@
           <a href="https://www.youtube.com/channel/UCQzq_-gjzOSIzNdQTZtsODg">
             <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
           </a>
-          <a href="https://twitter.com/Abdallah__Amir">
+          <a href="https://twitter.com/zerobrofan">
             <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
           </a>
     </div>
@@ -76,7 +76,7 @@ I am a Software Engineer from Egypt.
           <a href="https://www.linkedin.com/in/abdallah-amir-501a70232/">
             <img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" width="70px" alt="LinkedIn"/>&nbsp;&nbsp;&nbsp;
           </a>
-          <a href="https://twitter.com/Abdallah__Amir">
+          <a href="https://twitter.com/zerobrofan">
             <img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" width="70px" alt="Twitter"/>&nbsp;&nbsp;&nbsp;
           </a>
           <a href="https://github.com/Zerobrofan">
