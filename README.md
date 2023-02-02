@@ -25,7 +25,6 @@
           <a href="https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url">
             <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="200px" alt="AWS Cloud Practicioner Badge"/>
           </a>
-  
           <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FE69CAC3FF27C55C919DB050ABFC4CD7E97A38D3A5655259C2C00D9D9EE513D7">
             <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2022CA.png" width="200px" alt="OCI Foundations Associate"/>
           </a>
