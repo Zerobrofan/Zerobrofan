@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
       <div id="badges">
-          <a href="https://www.linkedin.com/in/abdallah-amir-501a70232/">
+          <a href="https://www.linkedin.com/in/abdallah-amir/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
           <a href="https://www.youtube.com/channel/UCQzq_-gjzOSIzNdQTZtsODg">
@@ -78,7 +78,7 @@ I am a Software Engineer from Egypt.
 
 ###  How to reach me 🤙:
 <div id="badges" align="center">
-          <a href="https://www.linkedin.com/in/abdallah-amir-501a70232/">
+          <a href="https://www.linkedin.com/in/abdallah-amir/">
             <img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" width="50px" alt="LinkedIn"/>&nbsp;&nbsp;&nbsp;
           </a>
           <a href="https://twitter.com/zerobrofan">
