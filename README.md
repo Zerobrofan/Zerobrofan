@@ -54,7 +54,9 @@ I am a Software Engineer from Egypt.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="30" height="30"/> &nbsp;
-  
-  
-  
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zerobrofan&theme=dark&background=000000)](https://git.io/streak-stats)
