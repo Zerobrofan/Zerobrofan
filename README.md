@@ -79,7 +79,7 @@ I am a Software Engineer from Egypt.
           <a href="https://twitter.com/Abdallah__Amir">
             <img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" width="70px" alt="Twitter"/>&nbsp;&nbsp;
           </a>
-          <a href="https://github.com/Zerobrofan/Zerobrofan/blob/main/README.md">
+          <a href="https://github.com/Zerobrofan">
             <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="70px" alt="GitHub"/>&nbsp;&nbsp;
           </a>
 </div>
