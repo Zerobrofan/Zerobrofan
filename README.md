@@ -20,10 +20,10 @@
 
 <div id="badges" align="center">
           <a href="https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url">
-            <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="300px" alt="Azure Fundamentals Badge"/>
+            <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="200px" alt="Azure Fundamentals Badge"/>
           </a>
           <a href="https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url">
-            <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="300px" alt="AWS Cloud Practicioner Badge"/>
+            <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="200px" alt="AWS Cloud Practicioner Badge"/>
           </a>
 </div>
 
