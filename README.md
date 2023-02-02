@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
       <div id="badges">
           <a href="https://www.linkedin.com/in/abdallah-amir-501a70232/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,9 +11,9 @@
             <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
           </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat&color=2a9df4"/>
     <h1>
-    Hi there, I'm Abdallah Amir (Zerobrofan)
+    Hey, I'm Abdallah Amir
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
@@ -26,7 +26,7 @@
             <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="200px" alt="AWS Cloud Practicioner Badge"/>
           </a>
           <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FE69CAC3FF27C55C919DB050ABFC4CD7E97A38D3A5655259C2C00D9D9EE513D7">
-            <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2022CA.png" width="200px" alt="OCI Foundations Associate"/>
+            <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width="200px" alt="OCI Foundations Associate"/>
           </a>
 </div>
 
@@ -63,15 +63,23 @@ I am a Software Engineer from Egypt.
 
 ---
 
+###  Check out my badges 🦝:
+<div align="center">
+           <a href="https://www.credly.com/users/abdallah-amir/badges">
+            <img src="https://images.credly.com/size/340x340/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" width="300px" alt="Credly"/>
+</div>
+
+---
+
 ###  How to reach me 🤙:
 <div id="badges" align="center">
           <a href="https://www.linkedin.com/in/abdallah-amir-501a70232/">
-            <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="50px" alt="LinkedIn"/>
+            <img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" width="70px" alt="LinkedIn"/>&nbsp;&nbsp;
           </a>
           <a href="https://twitter.com/Abdallah__Amir">
-            <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" width="50px" alt="Twitter"/>
+            <img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" width="70px" alt="Twitter"/>&nbsp;&nbsp;
           </a>
           <a href="https://github.com/Zerobrofan/Zerobrofan/blob/main/README.md">
-            <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" width="50px" alt="GitHub"/>
+            <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="70px" alt="GitHub"/>&nbsp;&nbsp;
           </a>
 </div>
