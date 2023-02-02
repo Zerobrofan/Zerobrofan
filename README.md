@@ -63,14 +63,14 @@ I am a Software Engineer from Egypt.
 ---
 
 ###  How to reach me 🤙:
-<div id="badges">
+<div id="badges" align="center">
           <a href="https://www.linkedin.com/in/abdallah-amir-501a70232/">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+            <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="50px" alt="LinkedIn"/>
           </a>
           <a href="https://twitter.com/Abdallah__Amir">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter"/>
+            <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" width="50px" alt="Twitter"/>
           </a>
-          <a href="https://twitter.com/Abdallah__Amir">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter"/>
+          <a href="https://github.com/Zerobrofan/Zerobrofan/blob/main/README.md">
+            <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" width="50px" alt="GitHub"/>
           </a>
-    </div>
+</div>
