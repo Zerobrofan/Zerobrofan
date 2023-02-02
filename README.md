@@ -18,7 +18,7 @@
     </h1>
 </div>
 
-<div id="badges" align="center" width="150">
+<div id="badges" align="center" width="100">
           <a href="https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url">
             <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals Badge"/>
           </a>
