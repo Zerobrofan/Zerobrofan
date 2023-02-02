@@ -58,5 +58,19 @@ I am a Software Engineer from Egypt.
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zerobrofan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zerobrofan&theme=tokyonight_duo&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+---
+
+###  How to reach me 🤙:
+<div id="badges">
+          <a href="https://www.linkedin.com/in/abdallah-amir-501a70232/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+          </a>
+          <a href="https://twitter.com/Abdallah__Amir">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter"/>
+          </a>
+          <a href="https://twitter.com/Abdallah__Amir">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter"/>
+          </a>
+    </div>
