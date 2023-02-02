@@ -31,7 +31,7 @@
 
 ### :man_technologist: About Me :
 I am a Software Engineer from Egypt.
-- :telescope: I’m currently learning <b> Computer Science </b>.
+- :telescope: I’m currently learning <b>Computer Science</b>.
 
 - :seedling: I am a Junior at <a href="https://www.facebook.com/FCSENMUofficial">Faculty of Computers Science & Engineering at New Mansoura University</a>.
 
