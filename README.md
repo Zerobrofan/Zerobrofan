@@ -10,6 +10,9 @@
           <a href="https://twitter.com/zerobrofan">
             <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
           </a>
+          <a href="abdallahamirmonir@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+          </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat&color=2a9df4"/>
     <h1>
@@ -86,5 +89,8 @@ I am a Software Engineer from Egypt.
           </a>
           <a href="https://github.com/Zerobrofan">
             <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="50px" alt="GitHub"/>&nbsp;&nbsp;&nbsp;
+          </a>
+          <a href="abdallahamirmonir@gmail.com">
+            <img src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" alt="Gmail" width="50px"/>&nbsp;&nbsp;&nbsp;
           </a>
 </div>
