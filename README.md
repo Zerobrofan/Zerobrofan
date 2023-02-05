@@ -16,8 +16,7 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat&color=2a9df4"/>
     <h1>
-    Hey, I'm Abdallah Amir
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0EABF7&center=true&vCenter=true&repeat=false&width=435&lines=Hey!%2C+I'm+Abdallah+Amir" alt="Typing SVG" /></a>
     </h1>
 </div>
 
