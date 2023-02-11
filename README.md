@@ -65,12 +65,14 @@ I am a Software Engineer from Egypt.
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zerobrofan&theme=github-dark-blue&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jfarfvrjrhrfjnigkeda37aezu)
   
 </div>
 
 ---
 
-###  Check out my badges 🦝:
+###  🦝 Check out my badges :
 <div align="center">
            <a href="https://www.credly.com/users/abdallah-amir/badges" target = "_blank">
             <img src="https://images.credly.com/size/340x340/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" width="200px" alt="Credly"/>
@@ -78,7 +80,7 @@ I am a Software Engineer from Egypt.
 
 ---
 
-###  How to reach me 🤙:
+###  🤙 How to reach me :
 <div id="badges" align="center">
           <a href="https://www.linkedin.com/in/abdallah-amir/" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" width="50px" alt="LinkedIn"/>&nbsp;&nbsp;&nbsp;
