@@ -13,6 +13,9 @@
           <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
             <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
           </a>
+        <a href="https://www.notion.so/abdallah-amir-porfolio/Abdallah-Amir-Software-Engineer-b5eb816d8846420f915eb42e5455068b?pvs=4" target = "_blank">
+            <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
+          </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat&color=2a9df4"/>
     <h1>
@@ -91,5 +94,8 @@ I am a Software Engineer from Egypt.
           </a>
           <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" alt="Gmail" width="50px"/>&nbsp;&nbsp;&nbsp;
+          </a>
+          <a href="https://www.notion.so/abdallah-amir-porfolio/Abdallah-Amir-Software-Engineer-b5eb816d8846420f915eb42e5455068b?pvs=4" target = "_blank">
+            <img src="https://img.icons8.com/color/256/notion--v1.png" alt="Noton" width="50px"/>&nbsp;&nbsp;&nbsp;
           </a>
 </div>
