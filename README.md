@@ -14,7 +14,7 @@
             <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
           </a>
         <a href="https://www.notion.so/abdallah-amir-porfolio/Abdallah-Amir-Software-Engineer-b5eb816d8846420f915eb42e5455068b?pvs=4" target = "_blank">
-            <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
+            <img src="https://img.shields.io/badge/Notion-grey?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
           </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat&color=2a9df4"/>
