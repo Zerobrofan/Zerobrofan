@@ -76,7 +76,7 @@ I am a Software Engineer from Egypt.
 
 ---
 
-###  🦝 Check out my badges :
+###  🦝 Check out my certifications & badges at:
 <div align="center">
            <a href="https://www.credly.com/users/abdallah-amir/badges" target = "_blank">
             <img src="https://images.credly.com/size/340x340/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" width="200px" alt="Credly"/>
