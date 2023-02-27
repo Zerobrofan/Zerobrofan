@@ -16,6 +16,9 @@
         <a href="https://www.notion.so/abdallah-amir-porfolio/Abdallah-Amir-Software-Engineer-b5eb816d8846420f915eb42e5455068b?pvs=4" target = "_blank">
             <img src="https://img.shields.io/badge/Notion-grey?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
           </a>
+        <a href="https://discordapp.com/users/317374309293359105" target = "_blank">
+            <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+          </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat&color=2a9df4"/>
     <h1>
@@ -92,10 +95,10 @@ I am a Software Engineer from Egypt.
           <a href="https://github.com/Zerobrofan" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="50px" alt="GitHub"/>&nbsp;&nbsp;&nbsp;
           </a>
-          <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" alt="Gmail" width="50px"/>&nbsp;&nbsp;&nbsp;
+          <a href="https://discordapp.com/users/317374309293359105" target = "_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord Badge" width="50px"/>&nbsp;&nbsp;&nbsp;
           </a>
-          <a href="https://www.notion.so/abdallah-amir-porfolio/Abdallah-Amir-Software-Engineer-b5eb816d8846420f915eb42e5455068b?pvs=4" target = "_blank">
-            <img src="https://img.icons8.com/color/256/notion--v1.png" alt="Noton" width="50px"/>&nbsp;&nbsp;&nbsp;
+          <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" alt="Gmail" width="50px"/>&nbsp;&nbsp;&nbsp;
           </a>
 </div>
