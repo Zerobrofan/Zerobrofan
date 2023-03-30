@@ -52,7 +52,7 @@ I am a Software Engineer from Egypt.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png?f=avif&w=256" alt="AWS" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud Infrastructure" width="40" height="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Dokcer" width="40" height="40"/> &nbsp;
