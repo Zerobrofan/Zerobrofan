@@ -70,7 +70,7 @@ I am a Software Engineer from Egypt.
 ---
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zerobrofan&theme=github-dark-blue&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zerobrofan&theme=transparent&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
   
 </div>
 
