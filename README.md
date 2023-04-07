@@ -13,7 +13,7 @@
           <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
             <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
           </a>
-        <a href="https://www.notion.so/abdallah-amir-porfolio/Abdallah-Amir-Software-Engineer-b5eb816d8846420f915eb42e5455068b?pvs=4" target = "_blank">
+        <a href="https://abdallahamir.me/" target = "_blank">
             <img src="https://img.shields.io/badge/Notion-grey?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
           </a>
         <a href="https://discordapp.com/users/317374309293359105" target = "_blank">
