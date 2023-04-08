@@ -13,9 +13,6 @@
           <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
             <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
           </a>
-        <a href="https://abdallahamir.me/" target = "_blank">
-            <img src="https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=notion&logoColor=white" alt="Website Badge"/>
-          </a>
         <a href="https://discordapp.com/users/317374309293359105" target = "_blank">
             <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
           </a>
