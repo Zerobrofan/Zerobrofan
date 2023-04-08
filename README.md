@@ -16,6 +16,9 @@
         <a href="https://discordapp.com/users/317374309293359105" target = "_blank">
             <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
           </a>
+        <a href="https://abdallahamir.me/" target = "_blank">
+            <img src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=notion&logoColor=white" alt="Website Badge"/>
+          </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat&color=2a9df4"/>
     <h1>
@@ -97,5 +100,8 @@ I am a Software Engineer from Egypt.
           </a>
           <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" alt="Gmail" width="50px"/>&nbsp;&nbsp;&nbsp;
+          </a>
+          <a href="https://abdallahamir.me/" target = "_blank">
+            <img src="https://img.icons8.com/cute-clipart/256/web.png" alt="Website" width="50px"/>&nbsp;&nbsp;&nbsp;
           </a>
 </div>
