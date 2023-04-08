@@ -102,6 +102,6 @@ I am a Software Engineer from Egypt.
             <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" alt="Gmail" width="50px"/>&nbsp;&nbsp;&nbsp;
           </a>
           <a href="https://abdallahamir.me/" target = "_blank">
-            <img src="https://img.icons8.com/cute-clipart/256/web.png" alt="Website" width="50px"/>&nbsp;&nbsp;&nbsp;
+            <img src="https://img.icons8.com/stickers/256/domain.png" alt="Website" width="55px"/>&nbsp;&nbsp;&nbsp;
           </a>
 </div>
