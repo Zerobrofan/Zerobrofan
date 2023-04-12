@@ -68,6 +68,13 @@ I am a Software Engineer from Egypt.
 </div>
 
 ---
+
+### 🌟 Favourite Repos:
+- 📚 <a href="https://github.com/Zerobrofan/StudyMe" target = "_blank">StudyMe - Course Management System</a>
+- 🎵 <a href="https://github.com/Zerobrofan/Musicly" target = "_blank">Musicly - Desktop Music Player</a>
+- 📏 <a href="https://github.com/Zerobrofan/Pocket-Ultrasonic-Range-Finder-Using-Arduino" target = "_blank">Pocket Ultrasonic Range Finder</a>
+
+---
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zerobrofan&theme=transparent&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
