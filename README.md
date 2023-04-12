@@ -40,7 +40,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 I am a Software Engineer from Egypt.
 - :telescope: I’m currently learning <b>Computer Science</b>.
 
@@ -50,7 +50,7 @@ I am a Software Engineer from Egypt.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/> &nbsp;
@@ -69,7 +69,7 @@ I am a Software Engineer from Egypt.
 
 ---
 
-### 🌟 Favourite Repos :
+### 🌟 Favourite Repos:
 - 📚 <a href="https://github.com/Zerobrofan/StudyMe" target = "_blank">StudyMe - Course Management System</a>
 - 🎵 <a href="https://github.com/Zerobrofan/Musicly" target = "_blank">Musicly - Desktop Music Player</a>
 - 📏 <a href="https://github.com/Zerobrofan/Pocket-Ultrasonic-Range-Finder-Using-Arduino" target = "_blank">Pocket Ultrasonic Range Finder</a>
@@ -83,7 +83,7 @@ I am a Software Engineer from Egypt.
 
 ---
 
-###  🦝 Check out my certifications & badges at :
+###  🦝 Check out my certifications & badges at:
 <div align="center">
            <a href="https://www.credly.com/users/abdallah-amir/badges" target = "_blank">
             <img src="https://images.credly.com/size/340x340/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" width="200px" alt="Credly"/>
@@ -91,7 +91,7 @@ I am a Software Engineer from Egypt.
 
 ---
 
-###  🤙 How to reach me :
+###  🤙 How to reach me:
 <div id="badges" align="center">
           <a href="https://www.linkedin.com/in/abdallah-amir/" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" width="50px" alt="LinkedIn"/>&nbsp;&nbsp;&nbsp;
