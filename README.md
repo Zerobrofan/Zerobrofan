@@ -75,6 +75,7 @@ I am a Software Engineer from Egypt.
 - 📏 <a href="https://github.com/Zerobrofan/Pocket-Ultrasonic-Range-Finder-Using-Arduino" target = "_blank">Pocket Ultrasonic Range Finder</a>
 - 🤖 <a href="https://github.com/Zerobrofan/Regular-Expression-Generator-Using-OpenAI" target = "_blank">Regular Expression Generator Using OpenAI</a>
 - 🌐 <a href="https://github.com/Zerobrofan/Static-Website-Hosting-Using-AWS-S3" target = "_blank">Static Website Hosting Using AWS S3</a>
+- 📙 <a href="https://github.com/Zerobrofan/Quotey-Inspirational-Quotes" target ="_blank"> Quotey - Inspirational Quotes</a>
 
 ---
 <div align="center">
