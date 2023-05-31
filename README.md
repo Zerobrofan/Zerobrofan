@@ -16,7 +16,7 @@
         <a href="https://discordapp.com/users/317374309293359105" target = "_blank">
             <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
           </a>
-        <a href="https://abdallahamir.website/" target = "_blank">
+        <a href="https://abdallahamir.me/" target = "_blank">
             <img src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=notion&logoColor=white" alt="Website Badge"/>
           </a>
     </div>
