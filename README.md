@@ -33,8 +33,8 @@
           <a href="https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url" target = "_blank">
             <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150px" alt="AWS Cloud Practicioner Badge"/>
           </a>
-          <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FE69CAC3FF27C55C919DB050ABFC4CD7E97A38D3A5655259C2C00D9D9EE513D7" target = "_blank">
-            <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width="150px" alt="OCI Foundations Associate"/>
+          <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FE69CAC3FF27C55C919DB050ABFC4CD7023DE5C187E13DB23A8AD06B71118D14" target = "_blank">
+            <img src="https://github.com/Zerobrofan/Zerobrofan/assets/100843256/70a48128-7bd2-4fd4-8cf6-10ef964d6b31" width="150px" alt="OCI Foundations Associate"/>
           </a>
 </div>
 
