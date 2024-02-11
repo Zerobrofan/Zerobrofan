@@ -27,6 +27,9 @@
 </div>
 
 <div id="badges" align="center">
+          <a href="https://www.credly.com/badges/729ffdb7-1327-4c31-a96f-d6c006665e84/public_url" target = "_blank">
+            <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150px" alt="GitHub Foundations Badge"/>
+          </a>
           <a href="https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url" target = "_blank">
             <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150px" alt="Azure Fundamentals Badge"/>
           </a>
