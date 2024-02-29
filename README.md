@@ -16,7 +16,7 @@
         <a href="https://discordapp.com/users/317374309293359105" target = "_blank">
             <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
           </a>
-        <a href="https://abdallahamir.me/" target = "_blank">
+        <a href="https://abdallahamir.com/" target = "_blank">
             <img src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=notion&logoColor=white" alt="Website Badge"/>
           </a>
     </div>
@@ -123,7 +123,7 @@ I am a Software Engineer from Egypt.
           <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" alt="Gmail" width="50px"/>&nbsp;&nbsp;&nbsp;
           </a>
-          <a href="https://abdallahamir.me/" target = "_blank">
+          <a href="https://abdallahamir.com/" target = "_blank">
             <img src="https://img.icons8.com/stickers/256/domain.png" alt="Website" width="55px"/>&nbsp;&nbsp;&nbsp;
           </a>
 </div>
