@@ -76,13 +76,13 @@ I am a Software Engineer from Egypt.
 ---
 
 ### 🌟 Favourite Repos:
+- 📙 <a href="https://github.com/Zerobrofan/Quotey-Inspirational-Quotes" target ="_blank"> Quotey - Inspirational Quotes</a>
 - 🙋‍♂️ <a href="https://github.com/Zerobrofan/react-portfolio" target = "_blank">React Portfolio</a>
 - 📚 <a href="https://github.com/Zerobrofan/StudyMe" target = "_blank">StudyMe - Course Management System</a>
 - 🎵 <a href="https://github.com/Zerobrofan/Musicly" target = "_blank">Musicly - Desktop Music Player</a>
 - 📏 <a href="https://github.com/Zerobrofan/Pocket-Ultrasonic-Range-Finder-Using-Arduino" target = "_blank">Pocket Ultrasonic Range Finder</a>
 - 🤖 <a href="https://github.com/Zerobrofan/Regular-Expression-Generator-Using-OpenAI" target = "_blank">Regular Expression Generator Using OpenAI</a>
 - 🌐 <a href="https://github.com/Zerobrofan/Static-Website-Hosting-Using-AWS-S3" target = "_blank">Static Website Hosting Using AWS S3</a>
-- 📙 <a href="https://github.com/Zerobrofan/Quotey-Inspirational-Quotes" target ="_blank"> Quotey - Inspirational Quotes</a>
 - 👟 <a href="https://github.com/Zerobrofan/SoleStyle-eCommerce-website/" target ="_blank"> SoleStyle - eCommerce website</a>
 - ⏲ <a href="https://github.com/Zerobrofan/Podomoro-Timer" target ="_blank"> Podomoro Timer - Timer Web App</a>
 
