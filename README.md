@@ -27,14 +27,17 @@
 </div>
 
 <div id="badges" align="center">
+          <a href="https://www.credly.com/badges/55aa4fdb-9c41-4c15-b6aa-0ef95547f166/public_url" target = "_blank">
+            <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150px" alt="AWS Certified Solutions Architect Associate Badge"/>
+          </a>
+          <a href="https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url" target = "_blank">
+            <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150px" alt="AWS Cloud Practicioner Badge"/>
+          </a>
           <a href="https://www.credly.com/badges/729ffdb7-1327-4c31-a96f-d6c006665e84/public_url" target = "_blank">
             <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150px" alt="GitHub Foundations Badge"/>
           </a>
           <a href="https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url" target = "_blank">
             <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150px" alt="Azure Fundamentals Badge"/>
-          </a>
-          <a href="https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url" target = "_blank">
-            <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150px" alt="AWS Cloud Practicioner Badge"/>
           </a>
           <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FE69CAC3FF27C55C919DB050ABFC4CD7023DE5C187E13DB23A8AD06B71118D14" target = "_blank">
             <img src="https://github.com/Zerobrofan/Zerobrofan/assets/100843256/70a48128-7bd2-4fd4-8cf6-10ef964d6b31" width="150px" alt="OCI Foundations Associate"/>
