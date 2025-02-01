@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM2ZW9pcngydG16aWVma3B4ZGgzMzVuZzRkc2w1YmF2a2RnNWx5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="500"/>
       <div id="badges">
           <a href="https://www.linkedin.com/in/abdallah-amir/" target = "_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,7 +22,7 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat&color=2a9df4"/>
     <h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey!%2C+I'm+Abdallah+Amir" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=25&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi!+I'm+Abdallah+Amir+%F0%9F%91%8B;I'm+a+DevOps%2FCloud+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
     </h1>
 </div>
 
