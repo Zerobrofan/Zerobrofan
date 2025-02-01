@@ -47,7 +47,7 @@
 ---
 
 ### :man_technologist: About Me:
-I am a DevOps/Cloud engineer from Egypt 🐪.
+I am a certified DevOps/Cloud engineer from Egypt 🐪.
 - :telescope: I’m currently studying <b>Computer Science</b>.
 
 - :seedling: I am a Senior at <a href="https://www.facebook.com/FCSENMUofficial" target = "_blank">Faculty of Computers Science & Engineering at New Mansoura University</a>.
