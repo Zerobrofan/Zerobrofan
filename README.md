@@ -93,9 +93,9 @@ I am a certified DevOps/Cloud engineer from Egypt 🐪.
 ---
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zerobrofan&theme=transparent&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
-  
+![Zerobrofan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zerobrofan&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 </div>
+
 
 ---
 
