@@ -6,17 +6,11 @@
           <a href="https://www.linkedin.com/in/abdallah-amir/" target = "_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
-          <a href="https://www.youtube.com/channel/UCQzq_-gjzOSIzNdQTZtsODg" target = "_top">
-            <img src="https://img.shields.io/badge/YouTube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-          </a>
           <a href="https://twitter.com/zerobrofan" target = "_top">
             <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
           </a>
           <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
             <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-          </a>
-        <a href="https://discordapp.com/users/317374309293359105" target = "_blank">
-            <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
           </a>
         <a href="https://abdallahamir.com/" target = "_blank">
             <img src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=notion&logoColor=white" alt="Website Badge"/>
