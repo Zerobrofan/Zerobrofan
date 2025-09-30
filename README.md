@@ -43,6 +43,8 @@ I am a certified DevOps/Cloud engineer from Egypt 🐪.
 
 - :zap: In my free time, I study cloud architecture ☁️, DevOps ♾️ and Python 🐍.
 
+- 🏢 Currently working as a Cloud Solutions Engineer Intern at <a href="https://www.inovasys.com/" target = "_blank"> Inovasys </a>.
+
 ---
 
 ## 🛠 Technologies and Tools
@@ -66,6 +68,7 @@ I am a certified DevOps/Cloud engineer from Egypt 🐪.
 ---
 
 ### 🌟 Favourite Repos:
+- 🕹 <a href="https://github.com/Zerobrofan/Cloud-Native-Game-Deployment-on-AWS-EKS" target ="_blank">Cloud Native Application Deployment on AWS EKS</a>
 - 🗣 <a href="https://github.com/Zerobrofan/Support-Chatbot-using-AWS-Lex-and-Connect" target ="_blank">Support Chatbot using AWS Lex & AWS Connect</a>
 - 📙 <a href="https://github.com/Zerobrofan/Quotey-Inspirational-Quotes" target ="_blank"> Quotey - Inspirational Quotes</a>
 - 🙋‍♂️ <a href="https://github.com/Zerobrofan/react-portfolio" target = "_blank">React Portfolio</a>
